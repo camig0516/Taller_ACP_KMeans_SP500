@@ -3,7 +3,7 @@
 Taller individual · Machine Learning aplicado a Economía y Finanzas · Pontificia Universidad Javeriana Cali
 Autora: Camila Andrea Granja Castro
 
-- **Aplicación:** `<enlace de Streamlit Community Cloud>`
+- **Aplicación:** https://estilos-sp500-acp-kmeans.streamlit.app/
 - **Video de sustentación:** `<enlace al video>`
 
 ## Contexto y pregunta
